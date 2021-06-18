@@ -1,0 +1,21 @@
+#App{
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+.firstcell{
+
+  background-color:aquamarine;
+  border :1px solid;
+}
+#table{
+ border:1px solid;
+ box-shadow: 1px 12px 12px aquamarine;
+
+}
+.cells{
+
+  border :1px solid;
+}
